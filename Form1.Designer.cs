@@ -61,7 +61,7 @@ namespace WebBrowserP
             this.webBrowser1.ScriptErrorsSuppressed = true;
             this.webBrowser1.Size = new System.Drawing.Size(800, 393);
             this.webBrowser1.TabIndex = 0;
-            this.webBrowser1.Url = new System.Uri("https://cn.bing.com", System.UriKind.Absolute);
+            this.webBrowser1.Url = new System.Uri(url, System.UriKind.Absolute);
             this.webBrowser1.DocumentCompleted += new System.Windows.Forms.WebBrowserDocumentCompletedEventHandler(this.webBrowser1_DocumentCompleted);
             // 
             // timer_MainForm
