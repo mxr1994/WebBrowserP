@@ -1,0 +1,3 @@
+time=16:11
+url=https://cn.bing.com
+password=123456

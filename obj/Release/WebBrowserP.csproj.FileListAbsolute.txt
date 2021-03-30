@@ -1,0 +1,14 @@
+E:\CSWorkSpace\WebBrowserP\bin\Release\WebBrowserP.exe.config
+E:\CSWorkSpace\WebBrowserP\bin\Release\WebBrowserP.exe
+E:\CSWorkSpace\WebBrowserP\bin\Release\WebBrowserP.pdb
+E:\CSWorkSpace\WebBrowserP\bin\Release\Microsoft.VisualStudio.DebuggerVisualizers.dll
+E:\CSWorkSpace\WebBrowserP\obj\Release\WebBrowserP.csprojAssemblyReference.cache
+E:\CSWorkSpace\WebBrowserP\obj\Release\WebBrowserP.Form1.resources
+E:\CSWorkSpace\WebBrowserP\obj\Release\WebBrowserP.Form2.resources
+E:\CSWorkSpace\WebBrowserP\obj\Release\WebBrowserP.Properties.Resources.resources
+E:\CSWorkSpace\WebBrowserP\obj\Release\WebBrowserP.csproj.GenerateResource.cache
+E:\CSWorkSpace\WebBrowserP\obj\Release\WebBrowserP.csproj.CoreCompileInputs.cache
+E:\CSWorkSpace\WebBrowserP\obj\Release\WebBrowserP.csproj.CopyComplete
+E:\CSWorkSpace\WebBrowserP\obj\Release\WebBrowserP.exe
+E:\CSWorkSpace\WebBrowserP\obj\Release\WebBrowserP.pdb
+E:\CSWorkSpace\WebBrowserP\obj\Release\WebBrowserP.KeyBoard.resources
